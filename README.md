@@ -12,7 +12,7 @@ I’m a programmer currently working on my **Computer Science Degree**. I’m pa
 
 ### 🔐 Current Work
 
-- **[Scientific Data App](https://github.com/m0chael/scientific-data-app)** This app allows you to render and visualize open data from a folder, working fully offline. It is licensed under **GNU GPLv3** and is provided "as-is".
+- **[Scientific Data App](https://github.com/m0chael/scientific-data-app)** This desktop app allows you to render and visualize open data from a folder, working fully offline. It is licensed under **GNU GPLv3** and is provided "as-is".
 
 - **[A Password Manager]** Currently in development. An offline password vault that uses **encryption** to protect data.
 
